@@ -12,13 +12,18 @@ Android Studio(Min. required Artic Fox)
 
 ## ALGORITHM:
 Step 1: Create a New Android Project:
+
               • Click New in the toolbar.
+              
               • In the window that appears, open the Android folder, select Android Application Project,
-              and click next.
+               and click next.
+               
               • Provide the application name and the project name and then finally give the desired
-              package name.
+                package name.
+              
               • Choose a launcher icon for your application and then select Blank Activity and then click
-              Next
+                 Next
+                 
               • Provide the desired Activity name for your project and then click Finish.
 
 Step 2: Create a New AVD (Android Virtual Device):
@@ -42,11 +47,9 @@ Step 6:Close the Android project.
 
 ## Program:
  ```
-/*
 Program to Develop an application that uses Font Size using Android Studio .
 Developed by: Vikram k
 RegisterNumber:  212222040180
-*/
 ```
 
 ## MainActivity.java:
@@ -160,9 +163,17 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![changecolor4](https://github.com/user-attachments/assets/8abeb7f7-0ffc-4d30-ae46-07a1327cfd9b)
-![changecolor5](https://github.com/user-attachments/assets/73caca94-3a5d-4562-9151-a8dd99241341)
-![changecolor56](https://github.com/user-attachments/assets/eee70263-79e3-4a2b-a918-f901984b53e8)
+<img src="https://github.com/user-attachments/assets/8abeb7f7-0ffc-4d30-ae46-07a1327cfd9b" width="50%" height="100%">
+
+
+
+<img src="https://github.com/user-attachments/assets/73caca94-3a5d-4562-9151-a8dd99241341" width="50%" height="100%">
+
+
+
+<img src="https://github.com/user-attachments/assets/eee70263-79e3-4a2b-a918-f901984b53e8" width="50%" height="100%">
+
+
 
 ## Result:
 Thus, the program for android application, Font Size and color was executed successfully using Android Studio.
